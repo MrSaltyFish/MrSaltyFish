@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 - Building apps and solving problems
 - Exploring new technologies
 - Collaborating on exciting projects
-[![MrSaltyFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSaltyFish)](https://github.com/MrSaltyFish/github-readme-stats)
 💡 Skills: MERN stack, Java, Python, C++ and more.
 
 🌱 Currently exploring app development.
 
 📫 Let's connect: https://www.linkedin.com/in/anvesh-k-5bba47259/
+
+
+
+[![MrSaltyFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSaltyFish)](https://github.com/MrSaltyFish/github-readme-stats)
