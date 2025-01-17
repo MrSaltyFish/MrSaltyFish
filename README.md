@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Anvesh Khode!
+🚀 3rd-year Computer Science student passionate about:
+- Building apps and solving problems
+- Exploring new technologies
+- Collaborating on exciting projects
+
+💡 Skills: MERN stack, Java, Python, C++ and more.
+🌱 Currently exploring app development.
+
+📫 Let's connect: [https://www.linkedin.com/in/anvesh-k-5bba47259/)]
