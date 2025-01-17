@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 📫 Let's connect: https://www.linkedin.com/in/anvesh-k-5bba47259/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/anvesh-k-5bba47259/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anvesh-k-5bba47259/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSaltyFish&layout=compact&theme=radical)
