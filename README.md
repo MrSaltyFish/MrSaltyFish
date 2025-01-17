@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 📫 Let's connect: https://www.linkedin.com/in/anvesh-k-5bba47259/
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSaltyFish&layout=compact&theme=radical)
 
 [![MrSaltyFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSaltyFish)](https://github.com/MrSaltyFish/github-readme-stats)
