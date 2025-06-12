@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Collaborating on exciting projects
 💡 Skills: MERN stack, Java, Python, C++ and more.
 
-🌱 Currently exploring app development.
+🌱 Currently exploring full-stack development.
 
 📫 Let's connect: https://www.linkedin.com/in/anvesh-k-5bba47259/
 
