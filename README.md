@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Anvesh Khode!
-🚀 3rd-year Computer Science student passionate about:
+🚀 4th-year Computer Science student passionate about:
 - Building apps and solving problems
 - Exploring new technologies
 - Collaborating on exciting projects
@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 🌱 Currently exploring full-stack development.
 
+[![roadmap.sh](https://roadmap.sh/card/tall/671bbaee768f9ccdb08b633b?variant=dark&roadmaps=cpp%2Cdatastructures-and-algorithms%2Cfrontend%2Cjavascript)](https://roadmap.sh)
+
 📫 Let's connect: https://www.linkedin.com/in/anvesh-k-5bba47259/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anvesh-k-5bba47259/)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSaltyFish&hide=jupyter%20notebook&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSaltyFish&hide=jupyter%20notebook&layout=compact&theme=radical) -->
 
 <!-- [![MrSaltyFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSaltyFish)](https://github.com/MrSaltyFish/github-readme-stats) -->
 
