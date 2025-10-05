@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 [![roadmap.sh](https://roadmap.sh/card/tall/671bbaee768f9ccdb08b633b?variant=dark&roadmaps=cpp%2Cdatastructures-and-algorithms%2Cfrontend%2Cjavascript)](https://roadmap.sh)
 
-📫 Let's connect: https://www.linkedin.com/in/anvesh-k-5bba47259/
-
+📫 Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anvesh-khode/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSaltyFish&hide=jupyter%20notebook&layout=compact&theme=radical) -->
 
